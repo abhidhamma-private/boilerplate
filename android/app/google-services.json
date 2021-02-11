@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192850972458",
+    "project_id": "selfhelp2",
+    "storage_bucket": "selfhelp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192850972458:android:8011ab037e68354ad81853",
+        "android_client_info": {
+          "package_name": "com.hanji.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192850972458-sj165bsh47jgrm1kpr847cssm3vphid5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanji.boilerplate",
+            "certificate_hash": "fc544eee8d97c1fc355e7182f6caad3c5f248b11"
+          }
+        },
+        {
+          "client_id": "192850972458-bbs9vcd0m71n307enuqmr1an6f5cbqbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaYj4DWu3e597ds1MrAzd2ApIJFpS3GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192850972458-bbs9vcd0m71n307enuqmr1an6f5cbqbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
